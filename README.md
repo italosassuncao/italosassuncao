@@ -1,5 +1,5 @@
 # Italo Silva de Assunção
-Graduado em Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo e pós-graduando MBA em Segurança da Informação, busco oportunidades para ingressar no mercado de trabalho como desenvolvedor Python e analista de dados.
+Graduado em Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo, busco oportunidades para ingressar no mercado de trabalho como desenvolvedor Python e analista de dados.
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/italo18sil/)
