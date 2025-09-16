@@ -21,4 +21,4 @@
 
 ### GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=italosassuncao)](https://github.com/italosassuncao/github-readme-stats)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=italosassuncao&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italosassuncao)](https://github.com/italosassuncao/github-readme-stats)
