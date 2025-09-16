@@ -20,5 +20,5 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=italosassuncao)](https://github.com/italosassuncao/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=italosassuncao&show_icons=true&bg_color=00000000)](https://github.com/italosassuncao/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italosassuncao)](https://github.com/italosassuncao/github-readme-stats)
