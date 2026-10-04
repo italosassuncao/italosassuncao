@@ -1,4 +1,4 @@
-# Olá, eu sou o Ítalo! 👋
+# Olá, eu sou o Italo! 👋
 
 **Analista & Engenheiro de Dados em Especialização | Python & SQL | Business Intelligence**
 
